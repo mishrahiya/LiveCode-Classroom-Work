@@ -1,6 +1,6 @@
 # Problem 1: Create a class
 
-> **Difficulty**: `Easy` | **Language**: `PYTHON` | **Score**: **Submitted** (Evaluation Completed)
+> **Difficulty**: `Easy` | **Language**: `PYTHON` | **Score**: **1/1** (3/3 Test Cases Passed)
 
 | Attribute | Details |
 | :--- | :--- |
@@ -8,9 +8,9 @@
 | **Category** | 🔴 Live Lab Problem |
 | **Session Date** | 2026-11-26 |
 | **Problem Type** | complete program |
-| **Score Achieved** | **Submitted** |
-| **Test Evaluation** | Evaluation Completed |
-| **Sync Timestamp** | Thursday, November 26, 2026 at 9:15 AM |
+| **Score Achieved** | **1/1** |
+| **Test Evaluation** | 3/3 Test Cases Passed |
+| **Sync Timestamp** | Thursday, November 26, 2026 at 9:21 AM |
 | **Verified Evaluation** | 🛡️ LiveCode Classroom Telemetry |
 
 ## 📋 Problem Statement
