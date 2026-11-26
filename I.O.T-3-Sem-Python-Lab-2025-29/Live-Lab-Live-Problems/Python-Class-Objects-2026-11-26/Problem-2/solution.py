@@ -3,7 +3,7 @@
 # Category: Live Lab Problems
 # Question: Problem 2 (Create a Classs)
 # Score: 1/1 (4/4 Test Cases Passed)
-# Synced: Thursday, November 26, 2026 at 10:09 AM
+# Synced: Thursday, November 26, 2026 at 10:10 AM
 
 # Write your Python solution below
 class car:
