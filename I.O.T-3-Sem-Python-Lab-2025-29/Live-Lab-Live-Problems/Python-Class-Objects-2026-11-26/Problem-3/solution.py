@@ -3,7 +3,7 @@
 # Category: Live Lab Problems
 # Question: Problem 3 (Solve the error)
 # Score: 1/1 (5/5 Test Cases Passed)
-# Synced: Thursday, November 26, 2026 at 9:54 AM
+# Synced: Thursday, November 26, 2026 at 10:10 AM
 
 # Write your Python solution below
 class student:
